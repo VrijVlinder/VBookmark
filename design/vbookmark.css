@@ -1,0 +1,23 @@
+a.Bookmark, a.Bookmarked, a.Bookmarking {
+background: url(images/star_sprite10.png)no-repeat!important;
+display: inline-block;
+height: 22px;
+width: 22px;
+}
+a.Bookmark {
+background-position:top center;
+
+}
+a.Bookmarking {
+background-position: 0 -44px!important;
+
+}
+a.Bookmarked {
+background-position: 0 -22px!important;
+
+}
+a.Bookmark:hover{
+	-moz-box-shadow: 0 0 2px #00ffcc!important;
+	-webkit-box-shadow: 0 0 2px #00ffcc!important;
+	box-shadow: 0 0 2px #00ffcc!important;
+}
