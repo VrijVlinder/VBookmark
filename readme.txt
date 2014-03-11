@@ -1,0 +1,1 @@
+This plugin adds custom bookmarking icon sprites. Just change the name for the sprite you want to use in the vbookmark.css file.
